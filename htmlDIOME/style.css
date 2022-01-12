@@ -1,0 +1,79 @@
+body {
+    background: #ccc;
+    max-width: 900px;
+    margin: auto;
+}
+
+.fotocris{
+ border-radius: 300px;
+ margin-left: 30px;
+ display: block;
+ max-width: 15%;
+ max-height: 15%
+ 
+}
+
+#titulo, .subtitle, .post_title {
+ color: blueviolet;
+ 
+}
+a {
+    text-decoration: inderline;
+    color:#311931
+}
+
+#titulo{
+    font-family:sans-serif;
+    font-size: 40px;
+    margin: 20;
+    margin-bottom: 15px;
+}
+
+
+.subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: bold;
+    margin: 0;
+    margin-bottom: 15px;
+    
+}
+.post {
+    background: #fff;
+    padding: 18px;
+    border: 3px solid #7c1555;
+    border-radius: 10px;
+    margin: 3px;
+    margin-bottom: 15px
+    
+}
+
+.paragrafoum {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+ 
+.editorimg{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contatolista{
+    list-style-type: none;
+    padding-left:  1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contatolista li a {
+     color: #7c1555;
+     text-decoration: none;
+}
